@@ -1,15 +1,3 @@
----
-title: "HW4 - Database Normalization"
-author: 
-  - Tejesh Annavarapu
-  - Srujan Katukam
-  - Anumandla Muralidhar Reddy
-  - Ajaykumar Reddy Rachala
-format: html
-toc: true
-toc-depth: 3
----
-
 # **CMSC 608 - Advanced Database**
 ### **Instructor:** Thomas Gyeera
 
